@@ -6,3 +6,4 @@ lib/
 *.jar
 .lein-deps-sum
 tags
+target/
